@@ -9,6 +9,7 @@ The outlines of this notebook presentation is as follows:
  - Data Cleaning
  - Splitting Data Method 1: shuffle the dataset before splitting using numpy.random.permutation 
     - Univariate Model: using one feature in our model. 
-    - Multivariate Model: using multiple features in each model and compare the results by calculating the root-mean-squre error (RMSE). 3.3 Hyperparameter Tuning: varying k values in k-nearest neighbors and compare the results using the RMSEs of individual models.
+    - Multivariate Model: using multiple features in each model and compare the results by calculating the root-mean-squre error (RMSE).
+    - Hyperparameter Tuning: varying k values in k-nearest neighbors and compare the results using the RMSEs of individual models.
  - Splitting Data Method 2: K-Fold Validation
 comparing the results from this part to Method 1's solutions where we split the shuffled dataset into training and test sets.
