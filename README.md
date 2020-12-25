@@ -3,7 +3,7 @@
 
 This project is a part of the guided project from Dataquest. I also develop and do further data analysis on my own using different techniques to split a dataset into training and test sets, and applying k-nearest neighbors algorithm with different k values to predict the car prices. The dataset used in this project is from https://archive.ics.uci.edu/ml/datasets/automobile.
 
-The outlines of this notebook presentation is as follows:
+The outlines of the notebook presentation in the respiratory is as follows:
 
  - Data Exploration
  - Data Cleaning
